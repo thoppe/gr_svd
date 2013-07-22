@@ -23,12 +23,12 @@ libraries `numpy` and `matplotlib` to run.
 
 ## Number singular values used, k
 
-6 `HS_N12`
-6 `HS_N13`
-4 `SW_epsilon`
-5 `SW_phi_1well`
-5 `SW_phi_2well`
-6 `SW_Phipps`
+    6 HS_N12
+    6 HS_N13
+    4 SW_epsilon
+    5 SW_phi_1well
+    5 SW_phi_2well
+    6 SW_Phipps
 
 ### "svd_eigenvalues.txt"
 List of the k singular values
