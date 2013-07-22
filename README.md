@@ -4,7 +4,7 @@
 Singular Value Decomposition of the Radial Distribution Function for Hard Sphere and Square Well Potentials
 
 ## Journal
-Journal of Chemical Theory and Computation
+PLOS ONE
 
 ##  Author 
 Travis Hoppe
