@@ -1,0 +1,24 @@
+### MATPLOTLIBRC FORMAT
+
+backend : GTKAgg
+
+text.usetex: True
+text.latex.preamble : \usepackage{amsmath}
+
+xtick.labelsize : 16
+ytick.labelsize : 16
+axes.labelsize  : 20
+
+figure.figsize: 10,6
+
+legend.frameon : False
+legend.fontsize: 16
+legend.labelspacing : .25
+legend.numpoints : 1
+legend.markerscale : 1.5
+
+savefig.dpi : 200
+
+savefig.bbox : tight
+savefig.pad_inches : 0.1
+
