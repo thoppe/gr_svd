@@ -1,4 +1,4 @@
-### Singular Value Decomposition of the Radial Distribution Function for Hard Sphere and Square Well Potentials
+## Singular Value Decomposition of the Radial Distribution Function for Hard Sphere and Square Well Potentials
 ##  Supplementary Information
 
 Travis Hoppe, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases
