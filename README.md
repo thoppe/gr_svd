@@ -1,14 +1,11 @@
-#  Supplementary Information
+### Singular Value Decomposition of the Radial Distribution Function for Hard Sphere and Square Well Potentials
+##  Supplementary Information
 
-## Title
-Singular Value Decomposition of the Radial Distribution Function for Hard Sphere and Square Well Potentials
+Travis Hoppe, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases
 
-## Journal
-PLOS ONE
+PLOS ONE, [http://dx.doi.org/10.1371/journal.pone.0075792](http://dx.doi.org/10.1371/journal.pone.0075792)
 
-##  Author 
-Travis Hoppe
-National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases
+[Archived PDF](PDF/journal.pone.0075792.PDF) from PLoS One.
 
 ## Copyright
 All data is released under the Creative Commons 3.0 Attribution license
